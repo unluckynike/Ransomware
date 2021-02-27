@@ -4,4 +4,4 @@ It's just a simple computer virus principle analysis.Downloaders should use it c
 
 # Analysis
 
-Running encrypts the subfiles of the current folderThe code is implemented in the form of written a 'char'，Write a 'c' char on lines 83 to 87.
+Running encrypts the subfiles of the current folderThe code is implemented in the form of written a char，Write a 'c' char on lines 83 to 87.
